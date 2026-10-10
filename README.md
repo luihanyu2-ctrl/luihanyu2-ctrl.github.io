@@ -1,1 +1,3 @@
-# luihanyu2-ctrl.github.io
+theme: minima
+title: 我的个人博客
+description: 欢迎来到我的个人博客！
